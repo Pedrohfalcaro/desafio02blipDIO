@@ -20,9 +20,5 @@ function rankingFinal(qtdVitorias) {
   }
 }
 
-console.log(
-  "O Herói tem saldo de " +
-  qtdVitorias +
-  " e está no nível de " +
-  rankingFinal(qtdVitorias)
+console.log("O Herói tem saldo de " + qtdVitorias +" e está no nível de " + rankingFinal(qtdVitorias)
 );
